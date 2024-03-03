@@ -2,7 +2,7 @@
 
 ## About the Data:
 
-The dataset provided here contains a comprehensive set of information crucial for assessing health insurance claims. It includes factors such as age, gender, Body Mass Index (BMI), blood pressure, diabetic status, number of children, region, smoking status, and claim amounts.
+The dataset provided here contains a comprehensive set of information crucial for assessing health insurance claims. It includes factors such as age, gender, Body Mass Index (BMI), blood pressure, their diabetic status, number of children, region, smoking status, and claim amounts.
 
 ## Getting Started:
 
