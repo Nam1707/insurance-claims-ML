@@ -43,6 +43,10 @@ The notebook covers the training of several machine learning models to predict i
 
 The models are evaluated based on their R-squared values, adjusted R-squared values, mean squared error (MSE), root mean squared error (RMSE), and mean absolute error (MAE). The best performing model is then used to make price predictions.
 
+## Conclusion:
+
+Based on the analysis, several insights are drawn regarding the factors influencing insurance claim amounts and recommendations for future actions.
+
 ## Technologies Used:
 
 - Python
